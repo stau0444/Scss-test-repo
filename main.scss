@@ -1,0 +1,31 @@
+.container{
+    >ul{
+        li{
+            font-size:40px;
+            .name{
+                color:royalblue
+            }
+            .age{
+                color:coral
+            }
+        }
+    }
+}
+
+.box{
+    font: {
+        weight:bold;
+        size: 40px;
+        family: san-serif;
+    };
+    margin: {
+        top:40px;
+        bottom: 30px;
+    };
+    padding: {
+        top: 10px;
+        bottom: 40px;
+        left: 40px;
+        right: 30px;
+    };
+}
